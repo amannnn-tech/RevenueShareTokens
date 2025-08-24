@@ -47,17 +47,6 @@ The RevenueShareToken has significant potential for expansion and enhancement:
 - NFT marketplaces and digital art platforms
 
 
-**Network**: Stacks Mainnet  
-**Contract Address**: [To be added after deployment]  
-**Deployment Block**: [To be added after deployment]  
-**Deployment Date**: [To be added after deployment]  
-
-**Testnet Information**:  
-**Testnet Contract Address**: [To be added after testnet deployment]  
-**Testnet Network**: Stacks Testnet  
-
----
-
 ### How to Use
 
 1. **Register Copyright**: Call `register-copyright` with your content hash and title
